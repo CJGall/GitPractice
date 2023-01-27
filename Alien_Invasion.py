@@ -3,7 +3,7 @@ import sys
 import pygame
 
 from settings import Settings
-#new comment
+
 class AlienInvasion:
     """Overall class to manager game assets and behavior"""
 
